@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Apache</title>
+    </head>
+    <body>
+        <p>Http-only - blokowane na porcie 443</p>
+    </body>
+</html>
+
+
